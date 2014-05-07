@@ -156,7 +156,7 @@
 }
 .jq-selectbox__select-text {
 	display: block;
-	width: 100%;
+	min-width: 30px;
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;

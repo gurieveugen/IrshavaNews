@@ -85,212 +85,36 @@
 			<!-- /.filter -->
 		</header>
 		<section class="main">
-			<div class="content">
-				<article class="featured">
-					<div class="thumb">
-						<img src="images/test4.jpg" alt="Thumb">
-					</div>
-					<div class="text">
-						<h1>В Іршаві Євромайдан пікетував районну раду</h1>
-						<ul class="info">
-							<li>29.01.2014</li>
-							<li><img src="images/icon_views.png" alt="Views"> 1022</li>
-							<li><img src="images/icon_comments.png" alt="Comments"> 4</li>
-						</ul>
-						29 січня під час народного віче в м. Іршава, мітингарі увійшли в будинок РДА та райради. Вони висловили свою незгоду із владою і вимагали негайного зібрання сесії районної ради. також повідомляється, що якісь невідомі намагалися вирвати двері до кабінету голови районної ради, але  їх зупинили самі ж протестувальники. <a href="#"><img src="images/icon_double_arrow_right.png" alt="More"></a> 
-					</div>
-				</article>
-				<div class="clear"></div>
-				<div class="articles-title">
-					<span class="news">
-						ОСТАННІ НОВИНИ
-					</span>
-					<span class="publications">
-						ПУБЛІКАЦІЇ
-					</span>
+			<div class="content-single">
+				<h1>В Іршаві Євромайдан пікетував районну раду</h1>
+				<img src="images/test4.jpg" alt="Thumb" class="pull-right">
+				
+				<div class="text">					
+					<ul class="info">
+						<li>29.01.2014</li>
+						<li><img src="images/icon_views.png" alt="Views"> 1022</li>
+						<li><img src="images/icon_comments.png" alt="Comments"> 4</li>
+					</ul>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, quos, vel, officia, veniam pariatur eveniet corporis minima a mollitia ipsam nemo expedita ex autem rem quo assumenda qui enim eius voluptate voluptatum impedit delectus non magni reprehenderit est labore modi nisi sequi nesciunt placeat dolorem aut soluta doloremque? Totam, iure voluptatem eum saepe hic esse ullam quasi autem cupiditate perspiciatis inventore quod architecto facilis doloribus voluptatibus itaque fuga modi laborum eos officiis nisi quo delectus consequuntur pariatur obcaecati aut at vitae aliquam reiciendis optio velit tenetur est fugit voluptatum vero illo placeat. Natus, quae, amet, reiciendis possimus eaque aspernatur distinctio quis esse repellat alias autem temporibus blanditiis a est aut eos qui ipsam voluptate deleniti aperiam accusantium quia ad similique sapiente iste officiis consequatur sit facilis dolorem corporis cupiditate ipsa quasi unde culpa iusto omnis eligendi molestiae consectetur magni earum impedit in maiores voluptates quam deserunt eveniet ex incidunt expedita excepturi at. Nobis, ipsum quam magnam ea molestias doloribus tempora perferendis ipsam mollitia quae deserunt nemo voluptatibus quisquam laudantium velit debitis earum minus fugiat. Similique, consequuntur, ullam, autem in quia necessitatibus dicta adipisci vel quod asperiores veniam est officia illo doloremque reprehenderit libero magnam architecto incidunt rem beatae explicabo voluptatibus nam labore a non dolores saepe quam nesciunt minima quaerat reiciendis minus recusandae voluptate! Laborum, odit, iusto nobis repellendus beatae sit culpa facilis placeat rem aspernatur illo a explicabo ex autem accusamus deleniti cumque tenetur fugiat similique earum suscipit vel dolore ullam natus maiores totam mollitia qui. Perspiciatis, natus quaerat temporibus porro debitis aliquid consequatur placeat delectus iste aperiam! Doloremque, quisquam, unde deserunt similique earum nulla recusandae ratione sed nostrum officiis error temporibus ullam nisi aliquam voluptate non voluptatem porro cum iste minus. Veritatis, iste reprehenderit dolores pariatur sit exercitationem nisi libero accusamus culpa quibusdam maxime animi error laborum sequi sunt voluptatibus ipsum! Mollitia, consequuntur, natus, nihil, eum sunt quis error accusantium modi id officiis cumque autem voluptatem perferendis quibusdam ipsam fuga consequatur neque fugit deleniti vitae eveniet officia necessitatibus nobis. Doloribus, doloremque recusandae sapiente reprehenderit natus inventore optio quibusdam illum cupiditate cum veniam porro ea enim rem voluptatum in repudiandae necessitatibus accusamus totam ipsa maxime nemo mollitia molestias autem expedita perferendis voluptas vitae molestiae excepturi! Accusamus, iste deleniti obcaecati repudiandae veritatis totam sapiente eius perferendis aperiam ratione at natus molestias aliquam molestiae adipisci quaerat incidunt dolor omnis nostrum doloribus. Sequi, a, eligendi nulla sed iste debitis minus harum eum est quaerat rerum illo illum minima quia enim exercitationem magnam qui saepe tempore provident voluptatibus voluptas dolores quidem ullam sint ipsa quibusdam voluptatum at animi tenetur velit doloribus optio numquam perferendis facilis praesentium perspiciatis! Esse, facilis, at sint id illum voluptas voluptate quod quae ducimus corporis totam dolor obcaecati consectetur possimus dicta laudantium sequi libero. Dignissimos, impedit, nemo, nisi eum ea odit aliquid explicabo saepe harum possimus aperiam aliquam tenetur praesentium maxime rerum repellendus officiis non omnis beatae deleniti deserunt distinctio quia sapiente architecto consequuntur qui ex excepturi accusantium dolores obcaecati. Architecto, enim, sunt, pariatur nostrum alias praesentium voluptatum rerum ratione vitae autem delectus deleniti nihil explicabo. Quam, perspiciatis, doloribus, odio nisi aliquid quos corrupti nulla facilis earum odit atque minus expedita fuga nam maxime mollitia nihil esse velit deleniti culpa excepturi autem in. Reprehenderit, dolor, dolore cum ut non iusto esse dolorem illo nostrum necessitatibus molestiae repudiandae deserunt repellendus similique consequuntur laboriosam maiores ex aperiam impedit vel veritatis perferendis in soluta tempora voluptatibus! Molestiae, accusamus, fugiat enim dignissimos suscipit quas tempore rerum dicta. Aliquid, deleniti, illum iste nemo voluptate animi saepe dolor libero repellendus magni officia harum accusamus voluptas error nam consequuntur voluptatibus tempora at? Ullam, ex, minus, sapiente corporis iure voluptates consectetur aut similique quod sed omnis doloribus maiores ut temporibus amet ipsa numquam! Perspiciatis, culpa, voluptas nisi quaerat saepe corporis optio labore eos ratione animi numquam in laudantium obcaecati magnam facere. Ipsam, doloremque, qui unde reprehenderit consectetur nisi corporis itaque at accusantium enim error non possimus est quaerat tenetur minima adipisci expedita dolor. Id, laborum, ullam mollitia nesciunt aliquam voluptates et praesentium cumque eligendi nostrum? Dolorem, ducimus excepturi ullam ipsam iure mollitia assumenda odit iste architecto atque ipsum reiciendis. Deserunt, eaque fugiat quo officiis eius? Reiciendis nesciunt explicabo aliquam modi animi error! Magnam, ipsam, consequatur deleniti eos et illo nostrum incidunt numquam est ipsa unde repellendus distinctio atque asperiores quia nihil accusantium iusto aliquam reprehenderit error facere recusandae laudantium accusamus neque perferendis at totam officia illum obcaecati aut quidem consectetur blanditiis impedit tempore id sapiente minus consequuntur. Rem illo quia ducimus dolor quasi tenetur maxime excepturi officia. Doloribus, quasi repellat ipsa nobis quas. Saepe, optio, perferendis neque unde totam magnam perspiciatis obcaecati ex inventore eveniet ea id dicta consequatur tempore quam. Corporis, ipsum, nihil, minima fugiat dolorem quam commodi pariatur aut voluptas alias sunt numquam recusandae laboriosam saepe itaque hic dolores impedit ducimus fugit nulla! Odio, fuga veniam explicabo doloremque voluptatibus accusantium illo quia. Quibusdam, aliquid, temporibus, aliquam numquam soluta ea ducimus laudantium quis deleniti vero libero officiis debitis eligendi dignissimos quas sint obcaecati nulla id laborum esse autem ipsa ut a iure aspernatur sunt voluptatem impedit quidem tempora inventore consequuntur quod praesentium ratione. Eaque, nulla, libero, iusto officia porro voluptatum hic fugiat vitae doloremque accusamus molestiae odit totam modi quod inventore odio suscipit debitis accusantium laudantium eos possimus obcaecati sunt unde fuga atque veniam perferendis dolor. Exercitationem corporis architecto eligendi tenetur voluptatum numquam iste minima nulla beatae asperiores? Optio odio inventore natus quaerat. Unde, omnis, eligendi, soluta quos minus est enim ipsam fugiat recusandae ex voluptatibus provident hic pariatur excepturi porro consequuntur magni officia dolor velit totam distinctio illum culpa maiores possimus rem ratione optio deserunt. Ut, a, eos voluptas ratione animi error at optio eveniet placeat consequuntur voluptatibus sint obcaecati quis commodi quas tenetur minima recusandae cumque laudantium excepturi fugit architecto numquam nobis accusantium omnis natus iusto ipsa aut consequatur tempore magni sed facere ipsum! Neque, veritatis, dignissimos, dolorem laboriosam saepe dolorum eius possimus vel dolores explicabo ipsa vitae minus tempore ducimus hic error ea vero temporibus illo quae doloremque consequatur aut harum quisquam nulla?
 				</div>
-				<div class="articles-body">
-					<div class="news">
-						<article>
-							<span class="time">19:49</span>
-							<div class="content">
-								<a href="#">Іршавщина з бюджетом та в очікуванні на легітимізацію Народної ради</a>
-								<small><img src="images/icon_comments.png" alt="Comments"> 4</small>
-							</div>
-							<div class="clear"></div>							
-						</article>
-						<article>
-							<span class="time">19:25</span>
-							<div class="content">
-								<a href="#" class="red bold">В Іршаві Євромайдан пікетував районну раду</a>
-								<small><img src="images/icon_comments.png" alt="Comments"> 35</small>
-							</div>
-							<div class="clear"></div>							
-						</article>
-						<article>
-							<span class="time">18:47</span>
-							<div class="content">
-								<a href="#">Іршавська рада прийняла резолюцію</a>
-							</div>
-							<div class="clear"></div>							
-						</article>
-						<article>
-							<span class="time">17:05</span>
-							<div class="content">
-								<a href="#">Автомайдан стартував з центральної площі Іршави</a>
-								<img src="images/icon_photo.png" alt="Have photo">
-							</div>
-							<div class="clear"></div>							
-						</article>
-						<article>
-							<span class="time">15:38</span>
-							<div class="content">
-								<a href="#">Дмитро Булатов проходить період реабілітації в санаторії “Боржава”</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>						
-						<article>
-							<span class="time">15:23</span>
-							<div class="content">
-								<a href="#" class="red bold">В ІРШАВІ СТВОРЕНО НАРОДНУ РАДУ</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>
-						<article>
-							<span class="time">15:19</span>
-							<div class="content">
-								<a href="#" class="black bold">Станіслав Сухан вийшов з Партії Регіонів</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>
-						<article>
-							<span class="time">15:12</span>
-							<div class="content">
-								<a href="#">Іршавський офіс Партії Регіонів закидали коктейлями молотова</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">14:17</span>
-							<div class="content">
-								<a href="#">Микола Азаров власноруч вирощує капусту в селі Заріччя</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">13:28</span>
-							<div class="content">
-								<a href="#">У ГПУ пообіцяли звільнити затриманого львівського фотографа вже в п'ятницю</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">13:16</span>
-							<div class="content">
-								<a href="#">У Шепетівці вкрали пам'ятник Леніну</a>	
-								<small><img src="images/icon_comments.png" alt="Comments"> 7</small>							
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">13:05</span>
-							<div class="content">
-								<a href="#">Художники Мукачева презентувалися у Чернівцях</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">12:09</span>
-							<div class="content">
-								<a href="#">Ужгородського шахрая, що видурив у людей 7 тон кольорових металів, засудили до 3 років тюрми</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">12:01</span>
-							<div class="content">
-								<a href="#">Водія, що в Мукачеві збив жінку і втік, знайшли</a>								
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">11:48</span>
-							<div class="content">
-								<a href="#">Для збільшення кількості туристів чиновники Закарпатської ОДА вирішили розробити туристичний бренд області</a>		
-								<small><img src="images/icon_comments.png" alt="Comments"> 36</small>							
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">11:41</span>
-							<div class="content">
-								<a href="#">Ужгородські активісти створили незалежний сайт новин</a>											
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">11:37</span>
-							<div class="content">
-								<a href="#">Будівництво об'їзної біля Берегова зрушило з мертвої точки</a>											
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">11:26</span>
-							<div class="content">
-								<a href="#" class="black bold">Хабарника Самсонова відновили на посаді в міськраді</a>		
-								<small><img src="images/icon_comments.png" alt="Comments"> 41</small>							
-							</div>
-							<div class="clear"></div>							
-						</article>	
-						<article>
-							<span class="time">11:10</span>
-							<div class="content">
-								<a href="#">Завтра в Ужгороді засідатиме виконком Ужгородської міської ради</a>											
-							</div>
-							<div class="clear"></div>							
-						</article>	
-					</div>
-					<!-- /.news -->
+				<div class="clear"></div>	
+				<div class="disqus">
+					<div id="disqus_thread"></div>
+					<script type="text/javascript">
+					    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+					    var disqus_shortname = 'irshavanews'; // required: replace example with your forum shortname
 
-					<div class="publications">
-						<article>
-							<h2>Археологічні знахідки УжНУ скоро стануть доступні загалу</h2>
-							<ul class="info">
-								<li>24.01.2014</li>
-								<li><img src="images/icon_views.png" alt="Views"> 875</li>
-								<li><img src="images/icon_comments.png" alt="Comments"> 9</li>
-							</ul>
-							<img src="images/article1.jpg" alt="Article 1" class="pull-left">
-							Минув вже рік як мешканці Ужгорода щонеділі пізнають власне місто за допомогою проекту «Відкриті екскурсії Ужгородом». Зустрічі на площі Театральній біля скульптури Миколайчика недільної обідньої пори, де починається чергова екскурсія, стали
-							<a href="#"><img src="images/icon_double_arrow_right.png" alt="More"></a> 
-						</article>
-						<article>
-							<h2>Полтавському паралімпійцеві дали житло в Мукачеві</h2>
-							<ul class="info">
-								<li>24.01.2014</li>
-								<li><img src="images/icon_views.png" alt="Views"> 543</li>
-								<li><img src="images/icon_comments.png" alt="Comments"> 12</li>
-							</ul>
-							<img src="images/article2.jpg" alt="Article 2" class="pull-left">
-							Коли уся ця історія набула розголосу, звичайно ж полтавська влада сказала, що ніхто нікому не погрожував, і спортсменів, тим більше призерів параолімпійських ігор, у них шанують і поважають. На мої звернення усі можливі і неможливі
-							<a href="#"><img src="images/icon_double_arrow_right.png" alt="More"></a> 
-						</article>
-						<article>
-							<h2>У Мукачеві відбулося розширене засідання Ради адвокатів Закарпаття</h2>
-							<ul class="info">
-								<li>24.01.2014</li>
-								<li><img src="images/icon_views.png" alt="Views"> 689</li>
-								<li><img src="images/icon_comments.png" alt="Comments"> 3</li>
-							</ul>
-							<img src="images/article3.jpg" alt="Article 3" class="pull-left">
-							Коли уся ця історія набула розголосу, звичайно ж полтавська влада сказала, що ніхто нікому не погрожував, і спортсменів, тим більше призерів параолімпійських ігор, у них шанують і поважають. На мої звернення усі можливі і неможливі
-							<a href="#"><img src="images/icon_double_arrow_right.png" alt="More"></a> 
-						</article>
-					</div>
-					<!-- /.publications -->
+					    /* * * DON'T EDIT BELOW THIS LINE * * */
+					    (function() {
+					        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+					        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+					        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+					    })();
+					</script>
+					<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+					<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+					
 				</div>
-				<!-- /.articles-body -->
 			</div>
 			<div class="sidebar">
 				<div class="block-slider">
