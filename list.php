@@ -86,17 +86,110 @@
 		</header>
 		<section class="main">
 			<div class="content-single">
-				<h1>В Іршаві Євромайдан пікетував районну раду</h1>
-				<img src="images/test4.jpg" alt="Thumb" class="pull-left" width="365">
-				
-				<div class="text">					
-					<ul class="info">
-						<li>29.01.2014</li>
-						<li><img src="images/icon_views.png" alt="Views"> 1022</li>
-						<li><img src="images/icon_comments.png" alt="Comments"> 4</li>
-					</ul>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, quos, vel, officia, veniam pariatur eveniet corporis minima a mollitia ipsam nemo expedita ex autem rem quo assumenda qui enim eius voluptate voluptatum impedit delectus non magni reprehenderit est labore modi nisi sequi nesciunt placeat dolorem aut soluta doloremque? Totam, iure voluptatem eum saepe hic esse ullam quasi autem cupiditate perspiciatis inventore quod architecto facilis doloribus voluptatibus itaque fuga modi laborum eos officiis nisi quo delectus consequuntur pariatur obcaecati aut at vitae aliquam reiciendis optio velit tenetur est fugit voluptatum vero illo placeat. Natus, quae, amet, reiciendis possimus eaque aspernatur distinctio quis esse repellat alias autem temporibus blanditiis a est aut eos qui ipsam voluptate deleniti aperiam accusantium quia ad similique sapiente iste officiis consequatur sit facilis dolorem corporis cupiditate ipsa quasi unde culpa iusto omnis eligendi molestiae consectetur magni earum impedit in maiores voluptates quam deserunt eveniet ex incidunt expedita excepturi at. Nobis, ipsum quam magnam ea molestias doloribus tempora perferendis ipsam mollitia quae deserunt nemo voluptatibus quisquam laudantium velit debitis earum minus fugiat. Similique, consequuntur, ullam, autem in quia necessitatibus dicta adipisci vel quod asperiores veniam est officia illo doloremque reprehenderit libero magnam architecto incidunt rem beatae explicabo voluptatibus nam labore a non dolores saepe quam nesciunt minima quaerat reiciendis minus recusandae voluptate! Laborum, odit, iusto nobis repellendus beatae sit culpa facilis placeat rem aspernatur illo a explicabo ex autem accusamus deleniti cumque tenetur fugiat similique earum suscipit vel dolore ullam natus maiores totam mollitia qui. Perspiciatis, natus quaerat temporibus porro debitis aliquid consequatur placeat delectus iste aperiam! Doloremque, quisquam, unde deserunt similique earum nulla recusandae ratione sed nostrum officiis error temporibus ullam nisi aliquam voluptate non voluptatem porro cum iste minus. Veritatis, iste reprehenderit dolores pariatur sit exercitationem nisi libero accusamus culpa quibusdam maxime animi error laborum sequi sunt voluptatibus ipsum! Mollitia, consequuntur, natus, nihil, eum sunt quis error accusantium modi id officiis cumque autem voluptatem perferendis quibusdam ipsam fuga consequatur neque fugit deleniti vitae eveniet officia necessitatibus nobis. Doloribus, doloremque recusandae sapiente reprehenderit natus inventore optio quibusdam illum cupiditate cum veniam porro ea enim rem voluptatum in repudiandae necessitatibus accusamus totam ipsa maxime nemo mollitia molestias autem expedita perferendis voluptas vitae molestiae excepturi! Accusamus, iste deleniti obcaecati repudiandae veritatis totam sapiente eius perferendis aperiam ratione at natus molestias aliquam molestiae adipisci quaerat incidunt dolor omnis nostrum doloribus. Sequi, a, eligendi nulla sed iste debitis minus harum eum est quaerat rerum illo illum minima quia enim exercitationem magnam qui saepe tempore provident voluptatibus voluptas dolores quidem ullam sint ipsa quibusdam voluptatum at animi tenetur velit doloribus optio numquam perferendis facilis praesentium perspiciatis! Esse, facilis, at sint id illum voluptas voluptate quod quae ducimus corporis totam dolor obcaecati consectetur possimus dicta laudantium sequi libero. Dignissimos, impedit, nemo, nisi eum ea odit aliquid explicabo saepe harum possimus aperiam aliquam tenetur praesentium maxime rerum repellendus officiis non omnis beatae deleniti deserunt distinctio quia sapiente architecto consequuntur qui ex excepturi accusantium dolores obcaecati. Architecto, enim, sunt, pariatur nostrum alias praesentium voluptatum rerum ratione vitae autem delectus deleniti nihil explicabo. Quam, perspiciatis, doloribus, odio nisi aliquid quos corrupti nulla facilis earum odit atque minus expedita fuga nam maxime mollitia nihil esse velit deleniti culpa excepturi autem in. Reprehenderit, dolor, dolore cum ut non iusto esse dolorem illo nostrum necessitatibus molestiae repudiandae deserunt repellendus similique consequuntur laboriosam maiores ex aperiam impedit vel veritatis perferendis in soluta tempora voluptatibus! Molestiae, accusamus, fugiat enim dignissimos suscipit quas tempore rerum dicta. Aliquid, deleniti, illum iste nemo voluptate animi saepe dolor libero repellendus magni officia harum accusamus voluptas error nam consequuntur voluptatibus tempora at? Ullam, ex, minus, sapiente corporis iure voluptates consectetur aut similique quod sed omnis doloribus maiores ut temporibus amet ipsa numquam! Perspiciatis, culpa, voluptas nisi quaerat saepe corporis optio labore eos ratione animi numquam in laudantium obcaecati magnam facere. Ipsam, doloremque, qui unde reprehenderit consectetur nisi corporis itaque at accusantium enim error non possimus est quaerat tenetur minima adipisci expedita dolor. Id, laborum, ullam mollitia nesciunt aliquam voluptates et praesentium cumque eligendi nostrum? Dolorem, ducimus excepturi ullam ipsam iure mollitia assumenda odit iste architecto atque ipsum reiciendis. Deserunt, eaque fugiat quo officiis eius? Reiciendis nesciunt explicabo aliquam modi animi error! Magnam, ipsam, consequatur deleniti eos et illo nostrum incidunt numquam est ipsa unde repellendus distinctio atque asperiores quia nihil accusantium iusto aliquam reprehenderit error facere recusandae laudantium accusamus neque perferendis at totam officia illum obcaecati aut quidem consectetur blanditiis impedit tempore id sapiente minus consequuntur. Rem illo quia ducimus dolor quasi tenetur maxime excepturi officia. Doloribus, quasi repellat ipsa nobis quas. Saepe, optio, perferendis neque unde totam magnam perspiciatis obcaecati ex inventore eveniet ea id dicta consequatur tempore quam. Corporis, ipsum, nihil, minima fugiat dolorem quam commodi pariatur aut voluptas alias sunt numquam recusandae laboriosam saepe itaque hic dolores impedit ducimus fugit nulla! Odio, fuga veniam explicabo doloremque voluptatibus accusantium illo quia. Quibusdam, aliquid, temporibus, aliquam numquam soluta ea ducimus laudantium quis deleniti vero libero officiis debitis eligendi dignissimos quas sint obcaecati nulla id laborum esse autem ipsa ut a iure aspernatur sunt voluptatem impedit quidem tempora inventore consequuntur quod praesentium ratione. Eaque, nulla, libero, iusto officia porro voluptatum hic fugiat vitae doloremque accusamus molestiae odit totam modi quod inventore odio suscipit debitis accusantium laudantium eos possimus obcaecati sunt unde fuga atque veniam perferendis dolor. Exercitationem corporis architecto eligendi tenetur voluptatum numquam iste minima nulla beatae asperiores? Optio odio inventore natus quaerat. Unde, omnis, eligendi, soluta quos minus est enim ipsam fugiat recusandae ex voluptatibus provident hic pariatur excepturi porro consequuntur magni officia dolor velit totam distinctio illum culpa maiores possimus rem ratione optio deserunt. Ut, a, eos voluptas ratione animi error at optio eveniet placeat consequuntur voluptatibus sint obcaecati quis commodi quas tenetur minima recusandae cumque laudantium excepturi fugit architecto numquam nobis accusantium omnis natus iusto ipsa aut consequatur tempore magni sed facere ipsum! Neque, veritatis, dignissimos, dolorem laboriosam saepe dolorum eius possimus vel dolores explicabo ipsa vitae minus tempore ducimus hic error ea vero temporibus illo quae doloremque consequatur aut harum quisquam nulla?
-				</div>
+				<h1>Новини</h1>
+				<article class="short-news">
+					<div class="img-block">
+						<img src="http://placehold.it/150x95/ffdf43/666666" alt="thumb">
+					</div>
+					<div class="text-block">
+						<h2><a href="$">Some title</a></h2>
+						<div class="text">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, placeat, optio adipisci ipsa mollitia ipsam aliquid totam ut minus deleniti esse temporibus eos consequuntur neque quam nam similique veritatis cum!
+
+							<ul class="info">
+								<li>29.01.2014</li>
+								<li><img alt="Views" src="images/icon_views.png"> 1022</li>
+								<li><img alt="Comments" src="images/icon_comments.png"> 4</li>
+							</ul>
+						</div>
+					</div>
+				</article>
+
+				<article class="short-news">
+					<div class="img-block">
+						<img src="http://placehold.it/150x95/ffdf43/666666" alt="thumb">
+					</div>
+					<div class="text-block">
+						<h2><a href="$">Some title</a></h2>
+						<div class="text">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, placeat, optio adipisci ipsa mollitia ipsam aliquid totam ut minus deleniti esse temporibus eos consequuntur neque quam nam similique veritatis cum!
+
+							<ul class="info">
+								<li>29.01.2014</li>
+								<li><img alt="Views" src="images/icon_views.png"> 1022</li>
+								<li><img alt="Comments" src="images/icon_comments.png"> 4</li>
+							</ul>
+						</div>
+					</div>
+				</article>
+
+				<article class="short-news">
+					<div class="img-block">
+						<img src="http://placehold.it/150x95/ffdf43/666666" alt="thumb">
+					</div>
+					<div class="text-block">
+						<h2><a href="$">Some title</a></h2>
+						<div class="text">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, placeat, optio adipisci ipsa mollitia ipsam aliquid totam ut minus deleniti esse temporibus eos consequuntur neque quam nam similique veritatis cum!
+
+							<ul class="info">
+								<li>29.01.2014</li>
+								<li><img alt="Views" src="images/icon_views.png"> 1022</li>
+								<li><img alt="Comments" src="images/icon_comments.png"> 4</li>
+							</ul>
+						</div>
+					</div>
+				</article>
+
+				<article class="short-news">
+					<div class="img-block">
+						<img src="http://placehold.it/150x95/ffdf43/666666" alt="thumb">
+					</div>
+					<div class="text-block">
+						<h2><a href="$">Some title</a></h2>
+						<div class="text">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, placeat, optio adipisci ipsa mollitia ipsam aliquid totam ut minus deleniti esse temporibus eos consequuntur neque quam nam similique veritatis cum!
+
+							<ul class="info">
+								<li>29.01.2014</li>
+								<li><img alt="Views" src="images/icon_views.png"> 1022</li>
+								<li><img alt="Comments" src="images/icon_comments.png"> 4</li>
+							</ul>
+						</div>
+					</div>
+				</article>
+
+				<article class="short-news">
+					<div class="img-block">
+						<img src="http://placehold.it/150x95/ffdf43/666666" alt="thumb">
+					</div>
+					<div class="text-block">
+						<h2><a href="$">Some title</a></h2>
+						<div class="text">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, placeat, optio adipisci ipsa mollitia ipsam aliquid totam ut minus deleniti esse temporibus eos consequuntur neque quam nam similique veritatis cum!
+
+							<ul class="info">
+								<li>29.01.2014</li>
+								<li><img alt="Views" src="images/icon_views.png"> 1022</li>
+								<li><img alt="Comments" src="images/icon_comments.png"> 4</li>
+							</ul>
+						</div>
+					</div>
+				</article>
+				<ul class="pagination">
+					<li><a href="#">&#8592;</a></li>
+					<li><a href="#" class="active">1</a></li>
+					<li><a href="#">2</a></li>
+					<li><a href="#">3</a></li>
+					<li><a href="#">4</a></li>
+					<li><a href="#">5</a></li>
+					<li><a href="#">6</a></li>
+					<li><a href="#">7</a></li>
+					<li><a href="#">8</a></li>
+					<li><a href="#">9</a></li>
+					<li><a href="#">10</a></li>
+					<li><a href="#">&#8594;</a></li>
+				</ul>
 				<div class="clear"></div>	
 				<div class="disqus">
 					<div id="disqus_thread"></div>
